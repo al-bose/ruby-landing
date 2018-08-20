@@ -43,8 +43,6 @@
           <p class="display-as-hero u-margin-bottom--large">
             Follow us on Instagram!
           </p>
-            <button v-on:click="composer_method">Test</button>
-            <p>{{theHtml}}</p>
         </div>
       </section>
     </main>
@@ -378,7 +376,9 @@ export default {
         }
     },
 
-
+    mounted:function(){
+        this.composer_method()
+    },
     methods: {
       composer_method() {
           var index;
