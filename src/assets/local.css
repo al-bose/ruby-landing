@@ -39,7 +39,7 @@
     #position: absolute;
     bottom:0px;
     height: 144px;
-    width: 165px;
+    width: auto;
     background: none;
 }
 .c-marquee__item:nth-child(5n+1):before,
