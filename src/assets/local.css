@@ -15,9 +15,9 @@
     background-image: none;
     box-shadow:none;
     padding:0;
-    margin-left:2px;
-    margin-right:16px;
-    width:auto;
+    margin:0;
+    min-width: 250px;
+    height:auto;
     bottom: 0px;
     position: relative;
 }
@@ -36,11 +36,11 @@
     margin-top: 5px;
 }
 .c-marquee__dog {
-    #position: absolute;
     bottom:0px;
-    height: 144px;
-    width: auto;
+    height: 250px;
+    width: 250px;
     background: none;
+/*    position: absolute;*/
 }
 .c-marquee__item:nth-child(5n+1):before,
 .c-marquee__item:before,
@@ -58,6 +58,12 @@
     padding: 0rem;
     padding-top: 5rem;
 }
+
+.c-marquee__container{
+    display:flex;align-items:center;overflow-x:auto;width:calc(15250px);height:410px
+}
+
+
 @media screen and (min-width: 48rem) {
     .o-section--feature {
         padding: 0rem;

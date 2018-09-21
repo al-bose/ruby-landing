@@ -14,7 +14,7 @@
 
 
     <body class="" data-gr-c-s-loaded="true">
-    <iframe src='javascript:""' id="__cvo_iframe" style="width: 0px; height: 0px; border: 0px; position: absolute; left: -2000px;"></iframe>
+    <iframe src='javascript:""' id="__cvo_iframe" style="width: 0px; height: 0px; border: 0px; position: absolute; left: -4000px;"></iframe>
 
 
     <header role="banner">
@@ -36,259 +36,259 @@
             <div class="c-marquee__container grid">
               <button type="button" class="c-marquee__item btn" @click="showModal(0)"
               >
-                <img src="./assets/Rubyfornia-dog-1.png" srcset="./assets/Rubyfornia-dog-1.png 1x, ./assets/Rubyfornia-dog-1.png 2x"
+                <img src="./assets/Minnie-1080-inset.gif" srcset="./assets/Minnie-1080-inset.gif 1x, ./assets/Minnie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
-                <span class="c-marquee__text">Blu 1</span>
+                <span class="c-marquee__text">Tinkerbelle</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(1)"
               >
-                <img src="./assets/Rubyfornia-dog-2.png" srcset="./assets/Rubyfornia-dog-2.png 1x, ./assets/Rubyfornia-dog-2.png 2x"
+                <img src="./assets/Ollie-1080-inset.gif" srcset="./assets/Ollie-1080-inset.gif 1x, ./assets/Ollie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
-                <span class="c-marquee__text">Blu 2</span>
+                <span class="c-marquee__text">Blu 2s</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(2)"
               >
-                <img src="./assets/Rubyfornia-dog-3.png" srcset="./assets/Rubyfornia-dog-3.png 1x, ./assets/Rubyfornia-dog-3.png 2x"
+                <img src="./assets/Pepper-1080-inset.gif" srcset="./assets/Pepper-1080-inset.gif 1x, ./assets/Pepper-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
-                <span class="c-marquee__text">Blu 3</span>
+                <span class="c-marquee__text">Blu 3d</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(3)"
               >
-                <img src="./assets/Rubyfornia-dog-4.png" srcset="./assets/Rubyfornia-dog-4.png 1x, ./assets/Rubyfornia-dog-4.png 2x"
+                <img src="./assets/Piper-1080-inset.gif" srcset="./assets/Piper-1080-inset.gif 1x, ./assets/Piper-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
-                <span class="c-marquee__text">Blu 4</span>
+                <span class="c-marquee__text">Blu 4f</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(4)"
               >
-                <img src="./assets/Rubyfornia-dog-5.png" srcset="./assets/Rubyfornia-dog-5.png 1x, ./assets/Rubyfornia-dog-5.png 2x"
+                <img src="./assets/Ripley-1080-inset.gif" srcset="./assets/Ripley-1080-inset.gif 1x, ./assets/Ripley-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 5</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(5)"
               >
-                <img src="./assets/Rubyfornia-dog-6.png" srcset="./assets/Rubyfornia-dog-6.png 1x, ./assets/Rubyfornia-dog-6.png 2x"
+                <img src="./assets/RocketMcRibb-1080-inset.gif" srcset="./assets/RocketMcRibb-1080-inset.gif 1x, ./assets/RocketMcRibb-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 6</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(6)"
               >
-                <img src="./assets/Rubyfornia-dog-7.png" srcset="./assets/Rubyfornia-dog-7.png 1x, ./assets/Rubyfornia-dog-7.png 2x"
+                <img src="./assets/Shorty-1080-inset.gif" srcset="./assets/Shorty-1080-inset.gif 1x, ./assets/Shorty-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 7</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(7)"
               >
-                <img src="./assets/Rubyfornia-dog-8.png" srcset="./assets/Rubyfornia-dog-8.png 1x, ./assets/Rubyfornia-dog-8.png 2x"
+                <img src="./assets/Stevie-1080-inset.gif" srcset="./assets/Stevie-1080-inset.gif 1x, ./assets/Stevie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 8</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(8)"
               >
-                <img src="./assets/Rubyfornia-dog-9.png" srcset="./assets/Rubyfornia-dog-9.png 1x, ./assets/Rubyfornia-dog-9.png 2x"
+                <img src="./assets/Tinkerbelle-1080-inset.gif" srcset="./assets/Tinkerbelle-1080-inset.gif 1x, ./assets/Tinkerbelle-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 9</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(9)"
               >
-                <img src="./assets/Rubyfornia-dog-10.png" srcset="./assets/Rubyfornia-dog-10.png 1x, ./assets/Rubyfornia-dog-10.png 2x"
+                <img src="./assets/Winnie-1080-inset.gif" srcset="./assets/Winnie-1080-inset.gif 1x, ./assets/Winnie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 10</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(10)"
               >
-                <img src="./assets/Rubyfornia-dog-11.png" srcset="./assets/Rubyfornia-dog-11.png 1x, ./assets/Rubyfornia-dog-11.png 2x"
+                <img src="./assets/Wolfgang-1080-inset.gif" srcset="./assets/Wolfgang-1080-inset.gif 1x, ./assets/Wolfgang-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 11</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(11)"
               >
-                <img src="./assets/Rubyfornia-dog-12.png" srcset="./assets/Rubyfornia-dog-12.png 1x, ./assets/Rubyfornia-dog-12.png 2x"
+                <img src="./assets/Buzz-1080-inset.gif" srcset="./assets/Buzz-1080-inset.gif 1x, ./assets/Buzz-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 12</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(12)"
               >
-                <img src="./assets/Rubyfornia-dog-13.png" srcset="./assets/Rubyfornia-dog-13.png 1x, ./assets/Rubyfornia-dog-13.png 2x"
+                <img src="./assets/Millie-1080-inset.gif" srcset="./assets/Millie-1080-inset.gif 1x, ./assets/Millie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 13</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(13)"
               >
-                <img src="./assets/Rubyfornia-dog-14.png" srcset="./assets/Rubyfornia-dog-14.png 1x, ./assets/Rubyfornia-dog-14.png 2x"
+                <img src="./assets/Maddie-1080-inset.gif" srcset="./assets/Maddie-1080-inset.gif 1x, ./assets/Maddie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 14</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(14)"
               >
-                <img src="./assets/Rubyfornia-dog-15.png" srcset="./assets/Rubyfornia-dog-15.png 1x, ./assets/Rubyfornia-dog-15.png 2x"
+                <img src="./assets/Luna-1080-inset-3.gif" srcset="./assets/Luna-1080-inset-3.gif 1x, ./assets/Luna-1080-inset-3.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 15</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(15)"
               >
-                <img src="./assets/Rubyfornia-dog-16.png" srcset="./assets/Rubyfornia-dog-16.png 1x, ./assets/Rubyfornia-dog-16.png 2x"
+                <img src="./assets/Lola-1080-inset-4.gif" srcset="./assets/Lola-1080-inset-4.gif 1x, ./assets/Lola-1080-inset-4.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 16</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(16)"
               >
-                <img src="./assets/Rubyfornia-dog-17.png" srcset="./assets/Rubyfornia-dog-17.png 1x, ./assets/Rubyfornia-dog-17.png 2x"
+                <img src="./assets/Jacky-1080-inset.gif" srcset="./assets/Jacky-1080-inset.gif 1x, ./assets/Jacky-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 17</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(17)"
               >
-                <img src="./assets/Rubyfornia-dog-18.png" srcset="./assets/Rubyfornia-dog-18.png 1x, ./assets/Rubyfornia-dog-18.png 2x"
+                <img src="./assets/Izzy-1080-inset.gif" srcset="./assets/Izzy-1080-inset.gif 1x, ./assets/Izzy-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 18</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(18)"
               >
-                <img src="./assets/Rubyfornia-dog-19.png" srcset="./assets/Rubyfornia-dog-19.png 1x, ./assets/Rubyfornia-dog-19.png 2x"
+                <img src="./assets/Iris-1080-inset.gif" srcset="./assets/Iris-1080-inset.gif 1x, ./assets/Iris-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 19</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(19)"
               >
-                <img src="./assets/Rubyfornia-dog-20.png" srcset="./assets/Rubyfornia-dog-20.png 1x, ./assets/Rubyfornia-dog-20.png 2x"
+                <img src="./assets/Indy-1080-inset.gif" srcset="./assets/Indy-1080-inset.gif 1x, ./assets/Indy-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 20</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(20)"
               >
-                <img src="./assets/Rubyfornia-dog-21.png" srcset="./assets/Rubyfornia-dog-21.png 1x, ./assets/Rubyfornia-dog-21.png 2x"
+                <img src="./assets/Hiro-1080-inset.gif" srcset="./assets/Hiro-1080-inset.gif 1x, ./assets/Hiro-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 21</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(21)"
               >
-                <img src="./assets/Rubyfornia-dog-22.png" srcset="./assets/Rubyfornia-dog-22.png 1x, ./assets/Rubyfornia-dog-22.png 2x"
+                <img src="./assets/Gizmo-1080-inset.gif" srcset="./assets/Gizmo-1080-inset.gif 1x, ./assets/Gizmo-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 22</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(22)"
               >
-                <img src="./assets/Rubyfornia-dog-23.png" srcset="./assets/Rubyfornia-dog-23.png 1x, ./assets/Rubyfornia-dog-23.png 2x"
+                <img src="./assets/GiGi-1080-inset.gif" srcset="./assets/GiGi-1080-inset.gif 1x, ./assets/GiGi-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 23</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(23)"
               >
-                <img src="./assets/Rubyfornia-dog-24.png" srcset="./assets/Rubyfornia-dog-24.png 1x, ./assets/Rubyfornia-dog-24.png 2x"
+                <img src="./assets/Fitzgerald-1080-inset.gif" srcset="./assets/Fitzgerald-1080-inset.gif 1x, ./assets/Fitzgerald-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 24</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(24)"
               >
-                <img src="./assets/Rubyfornia-dog-25.png" srcset="./assets/Rubyfornia-dog-25.png 1x, ./assets/Rubyfornia-dog-25.png 2x"
+                <img src="./assets/Ernie-1080-inset.gif" srcset="./assets/Ernie-1080-inset.gif 1x, ./assets/Ernie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 25</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(25)"
               >
-                <img src="./assets/Rubyfornia-dog-26.png" srcset="./assets/Rubyfornia-dog-26.png 1x, ./assets/Rubyfornia-dog-26.png 2x"
+                <img src="./assets/Dipsy-1080-inset.gif" srcset="./assets/Dipsy-1080-inset.gif 1x, ./assets/Dipsy-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 26</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(26)"
               >
-                <img src="./assets/Rubyfornia-dog-27.png" srcset="./assets/Rubyfornia-dog-27.png 1x, ./assets/Rubyfornia-dog-27.png 2x"
+                <img src="./assets/Davey-1080-inset.gif" srcset="./assets/Davey-1080-inset.gif 1x, ./assets/Davey-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 27</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(27)"
               >
-                <img src="./assets/Rubyfornia-dog-28.png" srcset="./assets/Rubyfornia-dog-28.png 1x, ./assets/Rubyfornia-dog-28.png 2x"
+                <img src="./assets/Cooper-1080-inset.gif" srcset="./assets/Cooper-1080-inset.gif 1x, ./assets/Cooper-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 28</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(28)"
               >
-                <img src="./assets/Rubyfornia-dog-29.png" srcset="./assets/Rubyfornia-dog-29.png 1x, ./assets/Rubyfornia-dog-29.png 2x"
+                <img src="./assets/Chip-1080-inset.gif" srcset="./assets/Chip-1080-inset.gif 1x, ./assets/Chip-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 29</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(29)"
               >
-                <img src="./assets/Rubyfornia-dog-30.png" srcset="./assets/Rubyfornia-dog-30.png 1x, ./assets/Rubyfornia-dog-30.png 2x"
+                <img src="./assets/CharlieChiPoo-1080-inset.gif" srcset="./assets/CharlieChiPoo-1080-inset.gif 1x, ./assets/CharlieChiPoo-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 30</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(30)"
               >
-                <img src="./assets/Rubyfornia-dog-31.png" srcset="./assets/Rubyfornia-dog-31.png 1x, ./assets/Rubyfornia-dog-31.png 2x"
+                <img src="./assets/CharlieDachshund-1080-inset.gif" srcset="./assets/CharlieDachshund-1080-inset.gif 1x, ./assets/CharlieDachshund-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 31</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(31)"
               >
-                <img src="./assets/Rubyfornia-dog-32.png" srcset="./assets/Rubyfornia-dog-32.png 1x, ./assets/Rubyfornia-dog-32.png 2x"
+                <img src="./assets/BooBoo-1080-inset.gif" srcset="./assets/BooBoo-1080-inset.gif 1x, ./assets/BooBoo-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 32</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(32)"
               >
-                <img src="./assets/Rubyfornia-dog-33.png" srcset="./assets/Rubyfornia-dog-33.png 1x, ./assets/Rubyfornia-dog-33.png 2x"
+                <img src="./assets/BlueDasavage-1080-inset.gif" srcset="./assets/BlueDasavage-1080-inset.gif 1x, ./assets/BlueDasavage-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 33</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(33)"
               >
-                <img src="./assets/Rubyfornia-dog-34.png" srcset="./assets/Rubyfornia-dog-34.png 1x, ./assets/Rubyfornia-dog-34.png 2x"
+                <img src="./assets/Blu-1080-inset.gif" srcset="./assets/Blu-1080-inset.gif 1x, ./assets/Blu-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 34</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(34)"
               >
-                <img src="./assets/Rubyfornia-dog-35.png" srcset="./assets/Rubyfornia-dog-35.png 1x, ./assets/Rubyfornia-dog-35.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 35</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(35)"
               >
-                <img src="./assets/Rubyfornia-dog-36.png" srcset="./assets/Rubyfornia-dog-36.png 1x, ./assets/Rubyfornia-dog-36.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 36</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(36)"
               >
-                <img src="./assets/Rubyfornia-dog-37.png" srcset="./assets/Rubyfornia-dog-37.png 1x, ./assets/Rubyfornia-dog-37.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 37</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(37)"
               >
-                <img src="./assets/Rubyfornia-dog-38.png" srcset="./assets/Rubyfornia-dog-38.png 1x, ./assets/Rubyfornia-dog-38.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 38</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(38)"
               >
-                <img src="./assets/Rubyfornia-dog-39.png" srcset="./assets/Rubyfornia-dog-39.png 1x, ./assets/Rubyfornia-dog-39.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 39</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(39)"
               >
-                <img src="./assets/Rubyfornia-dog-40.png" srcset="./assets/Rubyfornia-dog-40.png 1x, ./assets/Rubyfornia-dog-40.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 40</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(40)"
               >
-                <img src="./assets/Rubyfornia-dog-41.png" srcset="./assets/Rubyfornia-dog-41.png 1x, ./assets/Rubyfornia-dog-41.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 41</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(41)"
               >
-                <img src="./assets/Rubyfornia-dog-42.png" srcset="./assets/Rubyfornia-dog-42.png 1x, ./assets/Rubyfornia-dog-42.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 42</span>
               </button>
               <button type="button" class="c-marquee__item btn" @click="showModal(42)"
               >
-                <img src="./assets/Rubyfornia-dog-43.png" srcset="./assets/Rubyfornia-dog-43.png 1x, ./assets/Rubyfornia-dog-43.png 2x"
+                <img src="./assets/Amelie-1080-inset.gif" srcset="./assets/Amelie-1080-inset.gif 1x, ./assets/Amelie-1080-inset.gif 2x"
                      alt="Lever" class="c-marquee__attribution c-marquee__dog"/>
                 <span class="c-marquee__text">Blu 43</span>
               </button>
@@ -392,38 +392,38 @@ export default {
             theHtml : '',
             composers : [
                 {
-                    title: 'Great Dane',
-                    photo: 'Rubyfornia-dog-1.png',
-                    description: "I am dog 1!",
-                    name: 'Blu'
+                    title: 'Applehead Chihuahua',
+                    photo: 'Tinkerbelle-1080layers_1.gif',
+                    description: "Hi hi hi! I’m Ripley!!! I may be small in stature, but I have the biggest personality you’ll ever meet! I have all the energy in the world, come play with me! I won’t stop running around, come get me! I just love staying active and spreading love to everyone who plays with me. I’m so glad to meet you!",
+                    name: 'Tinkerbelle'
                 },
                 {
                     title: 'Great Dane',
-                    photo: 'Rubyfornia-dog-2.png',
+                    photo: 'Tinkerbelle-1080layers_1.gif',
                     description: "I am dog 2!",
-                    name: 'Blu'
+                    name: 'Blu2'
                 },
                 {
                     title: 'Great Dane',
-                    photo: 'Rubyfornia-dog-3.png',
+                    photo: 'Tinkerbelle-1080layers_1.gif',
                     description: "Hi hi hi! I’m Ripley!!! I may be small in stature, but I have the biggest personality you’ll ever meet! I have all the energy in the world, come play with me! I won’t stop running around, come get me! I just love staying active and spreading love to everyone who plays with me. I’m so glad to meet you!",
-                    name: 'Great Dane'
+                    name: 'Great Dane3'
                 },
                 {
                     title: 'Great Dane',
-                    photo: 'Rubyfornia-dog-4.png',
+                    photo: 'Tinkerbelle-1080layers_1.gif',
                     description: "Hi hi hi! I’m Ripley!!! I may be small in stature, but I have the biggest personality you’ll ever meet! I have all the energy in the world, come play with me! I won’t stop running around, come get me! I just love staying active and spreading love to everyone who plays with me. I’m so glad to meet you!",
-                    name: 'Blu'
+                    name: 'Blu4'
                 },
                 {
                     title: 'Great Dane',
-                    photo: 'Rubyfornia-dog-5.png',
+                    photo: 'Tinkerbelle-1080layers_1.gif',
                     description: 'Hi hi hi! I’m Ripley!!! I may be small in stature, but I have the biggest personality you’ll ever meet! I have all the energy in the world, come play with me! I won’t stop running around, come get me! I just love staying active and spreading love to everyone who plays with me. I’m so glad to meet you!',
                     name: 'Blu'
                 },
                 {
                     title: 'Great Dane',
-                    photo: 'Rubyfornia-dog-6.png',
+                    photo: 'Tinkerbelle-1080layers_1.gif',
                     description: '',
                     name: 'Blu'
                 },
